@@ -38,7 +38,7 @@
 
 ###
 
-I'm [YourName], a seasoned C# .NET System Engineer with over 15 years of experience under my belt. My journey through the tech world has been filled with challenges, learning, and a lot of code. I'm a firm believer in constantly updating my knowledge, ensuring I'm always in sync with the ever-evolving tech landscape.
+I'm Charnn, a seasoned C# .NET System Engineer with over 15 years of experience under my belt. My journey through the tech world has been filled with challenges, learning, and a lot of code. I believe in constantly updating my knowledge, ensuring I'm always in sync with the ever-evolving tech landscape.
 
 ## 🚀 Experience & Expertise
 
@@ -51,18 +51,18 @@ With 15+ years of diving deep into C# and .NET, I've had the privilege of:
 
 ## 🧰 Skills & Tools
 
-- **Languages:** C#, SQL, [other languages you know]
+- **Languages:** C#, SQL, etc
 - **Frameworks/Libraries:** .NET Core, .NET Framework, ASP.NET, [others]
-- **Tools:** Azure, Docker, Kubernetes, [any other tools you use]
+- **Tools:** Azure, Docker.
 
 ## 📚 Current Learning & Interests
 
 In my quest to never stop learning, I'm currently exploring:
 
-- [A new tech/tool you're learning e.g., "Blazor WebAssembly for interactive web applications."]
-- [Another tech/tool/topic of interest]
-
-## 🌐 Let's Connect!
+- Blazor WebAssembly 
+- AI Langchain integration
+- Azure
+- AWS
 
 I love collaborating on projects, discussing tech, or simply networking with fellow enthusiasts. Feel free to reach out!
 
